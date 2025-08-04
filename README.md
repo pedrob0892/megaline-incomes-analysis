@@ -1,21 +1,21 @@
 # Megaline Income Analysis 
 
-Projeto de análise exploratória de dados sobre a empresa Megaline.
+Exploratory data analysis project for Megaline.
 
-## 📌 Objetivo
-Investigar qual dos planos gera mais receita para a empresa, com o objetivo de ajustar o orçamento de publicidade.
+## 📌 Objective
+Investigate which plan generates the most revenue for the company, with the goal of adjusting marketing and advertising budgets.
 
-## 🛠️ Ferramentas e Tecnologias
+## 🛠️ Tools and Technologies
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
-- Visualizações com plotly
+- Visualizations with ploty
 
-## 🔍 Etapas da análise
-1. Limpeza e tratamento dos dados (valores ausentes e duplicados)
-2. Análise descritiva
-3. Correlações e insights principais com gráficos
-4. Testes de hipóteses
-5. Conclusões
+## 🔍 Analysis steps
+1. Data cleaning/treatment of missing and duplicated values
+2. Descriptive analysis
+3. Correlations and key insights with graphs 
+4. Hypothesis Tests
+5. Conclusions
 
-## 📁 Arquivos
-- `megaline-incomes-analysis.ipynb` → notebook com todo o código e visualizações
+## 📁 Files
+- `megaline-incomes-analysis.ipynb` → notebook with all code and visualizations
