@@ -20,7 +20,7 @@ Investigate which plan generates the most revenue for the company, with the goal
 5. Conclusions
 
 ## 📁 Files
-- `megaline-incomes-analysis.ipynb` → notebook with all code and visualizations
+- `megaline-incomes-analysis(english).ipynb` → notebook with all code and visualizations
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
 (PORTUGUÊS)
@@ -45,4 +45,4 @@ Investigar qual dos planos gera mais receita para a empresa, com o objetivo de a
 5. Conclusões
 
 ## 📁 Arquivos
-- `megaline-incomes-analysis.ipynb` → arquvivo notebook com todos os códigos e visualizações
+- `megaline-incomes-analysis(português).ipynb` → arquvivo notebook com todos os códigos e visualizações
