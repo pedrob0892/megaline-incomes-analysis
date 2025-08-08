@@ -19,6 +19,9 @@ Investigate which plan generates the most revenue for the company, with the goal
 4. Hypothesis Tests
 5. Conclusions
 
+## 📊 Dashboard (Tableau Public)
+[![Dashboard Preview]()]([https://public.tableau.com/views/SeuDashboardLink](https://public.tableau.com/app/profile/pedro.bocchini/viz/megaline-dashboard/Painel1?publish=yes))
+
 ## 📁 Files
 - `megaline-incomes-analysis(english).ipynb` → notebook with all code and visualizations
 
@@ -43,6 +46,9 @@ Investigar qual dos planos gera mais receita para a empresa, com o objetivo de a
 3. Correlações e insights principais com gráficos
 4. Testes de hipóteses
 5. Conclusões
+
+## 📊 Dashboard (Tableau Public)
+[![Dashboard Preview]()]([https://public.tableau.com/views/SeuDashboardLink](https://public.tableau.com/app/profile/pedro.bocchini/viz/megaline-dashboard/Painel1?publish=yes))
 
 ## 📁 Arquivos
 - `megaline-incomes-analysis(português).ipynb` → arquvivo notebook com todos os códigos e visualizações
