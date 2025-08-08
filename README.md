@@ -23,7 +23,7 @@ Investigate which plan generates the most revenue for the company, with the goal
 [Megaline Dashboard](https://public.tableau.com/app/profile/pedro.bocchini/viz/megaline-dashboard/Painel1?publish=yes)
 
 ## 📁 Files
-- `megaline-incomes-analysis(english).ipynb` → notebook with all code and visualizations
+- `megaline-incomes-analysis(english).ipynb` → notebook with all codes and visualizations
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
 (PORTUGUÊS)
